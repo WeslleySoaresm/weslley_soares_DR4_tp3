@@ -1,4 +1,4 @@
-# 📊 Relatórios Longitudinais FIFA (TP3/TP4)
+# 📊 Relatórios Longitudinais FIFA (TP3)
 
 Este repositório contém uma sequência de exercícios práticos em **Python + Pandas + SQLAlchemy**, simulando pipelines analíticos sobre datasets do FIFA (edições 2015 a 2021).  
 O objetivo é consolidar técnicas de **ETL, SQL em memória, análise longitudinal e visualização de dados** para uso em modding, dashboards e estudos estatísticos.
