@@ -1,0 +1,12 @@
+short_name,long_name,overall_15,potential_15,age,player_positions,overall_16,potential_16,age_16,player_positions_16,overall_17,potential_17,age_17,player_positions_17,overall_18,potential_18,age_18,player_positions_18,overall_19,potential_19,age_19,player_positions_19,overall_20,potential_20,age_20,player_positions_20,overall_21,potential_21,age_21_x,player_positions_21_x,age_21_y,player_positions_21_y,evolucao_overall_15_21,evolucao_potential_15_21,tendencia_overall
+K. De Bruyne,Kevin De Bruyne,81,86,23,"CAM, LM, RM",86.0,89.0,24.0,"CAM, LM, RM",88,91,25,"CAM, RM, LM",89,92,26,"CAM, CM, RM",91,92,27,"CAM, CM",91,91,28,"CAM, CM",91,91,29,"CAM, CM",29,"CAM, CM",10,5,subiu
+R. Lewandowski,Robert Lewandowski,87,89,25,"ST, CF",87.0,89.0,26.0,ST,90,90,27,ST,91,91,28,ST,90,90,29,ST,89,89,30,ST,91,91,31,ST,31,ST,4,2,subiu
+M. ter Stegen,Marc-André ter Stegen,82,88,22,GK,82.0,88.0,23.0,GK,83,88,24,GK,85,89,25,GK,89,92,26,GK,90,93,27,GK,90,93,28,GK,28,GK,8,5,subiu
+V. van Dijk,Virgil van Dijk,75,79,22,CB,,,,,79,84,24,CB,83,86,25,CB,85,87,26,CB,90,91,27,CB,90,91,28,CB,28,CB,15,12,subiu
+K. Benzema,Karim Benzema,85,87,26,ST,86.0,88.0,27.0,ST,87,87,28,ST,86,86,29,ST,84,84,30,ST,87,87,31,"CF, ST",89,89,32,"CF, ST",32,"CF, ST",4,2,subiu
+M. Neuer,Manuel Neuer,90,90,28,GK,90.0,90.0,29.0,GK,92,92,30,GK,92,92,31,GK,90,90,32,GK,88,88,33,GK,89,89,34,GK,34,GK,-1,-1,estavel
+E. Hazard,Eden Hazard,88,90,23,"LM, RM",89.0,91.0,24.0,LM,88,90,25,"LM, CAM, LW",90,91,26,LW,91,91,27,"LW, CF",91,91,28,"LW, CF",88,88,29,"LW, ST",29,"LW, ST",0,-2,estavel
+H. Kane,Harry Kane,71,78,20,"ST, CF",78.0,84.0,21.0,"ST, CF",84,90,22,ST,86,90,23,ST,89,92,24,ST,89,91,25,ST,88,89,26,ST,26,ST,17,11,subiu
+T. Kroos,Toni Kroos,85,88,24,"CM, CDM, CAM",87.0,90.0,25.0,"CM, CDM",88,90,26,"CM, CDM",90,90,27,"CM, CDM",90,90,28,"CM, CDM",88,88,29,CM,88,88,30,CM,30,CM,3,0,subiu
+A. Griezmann,Antoine Griezmann,82,88,23,"LW, LM",83.0,89.0,24.0,"ST, CAM, LM",88,92,25,"ST, RW, LW",88,91,26,"ST, RW, LW",89,90,27,ST,89,89,28,"CF, ST, LW",87,87,29,"ST, CF, LW",29,"ST, CF, LW",5,-1,subiu
+G. Chiellini,Giorgio Chiellini,84,84,29,CB,87.0,87.0,30.0,CB,88,88,31,CB,89,89,32,CB,89,89,33,CB,89,89,34,CB,87,87,35,CB,35,CB,3,3,subiu
